@@ -25,7 +25,7 @@
 
 ## Will you try to implement any stretch features?
 
-* 
+* Yes
 
 ## What will be your process?
 
